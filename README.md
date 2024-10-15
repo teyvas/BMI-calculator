@@ -29,13 +29,6 @@ The BMI is automatically calculated as the user updates the input values, and th
 - **User-Friendly UI**: Built using JavaFX with an intuitive layout.
 
 
-## Requirements
-
-- Java Development Kit (JDK) version 8 or later.
-- JavaFX SDK.
-- IDE like IntelliJ IDEA, Eclipse, or any JavaFX-compatible IDE.
-
-
 ## Running the Application
 
 1. Open the project in your preferred IDE.
